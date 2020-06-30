@@ -1,0 +1,166 @@
+.pcoded .pcoded-navbar[navbar-theme="theme1"] {
+    background: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .main-menu {
+    background-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .main-menu .main-menu-header {
+    background-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .main-menu .main-menu-header .user-details span {
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .main-menu .main-menu-content .more-details a {
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li>a {
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.active>a {
+    background: #00113E;
+    color: #dcdcdc;
+    border-bottom-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li>a {
+    border-bottom-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item li.pcoded-hasmenu .pcoded-submenu {
+    background: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item li.pcoded-hasmenu .pcoded-submenu li>a {
+    border-bottom-color: #546686;
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.pcoded-hasmenu>a:after, .pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.pcoded-hasmenu .pcoded-submenu li.pcoded-hasmenu>a:after {
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.pcoded-hasmenu.pcoded-trigger>a:after, .pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.pcoded-hasmenu.pcoded-trigger .pcoded-submenu li.pcoded-hasmenu.pcoded-trigger>a:after {
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.active:hover>a, .pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li:hover>a {
+    background: #00113E;
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item .pcoded-hasmenu .pcoded-submenu li:hover>a {
+    background-color: #00113E;
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item .pcoded-hasmenu .pcoded-submenu li:hover>a:before {
+    border-left-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item .pcoded-hasmenu .pcoded-submenu li.active>a {
+    color: #dcdcdc;
+    background-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item .pcoded-hasmenu .pcoded-submenu li.active>a .pcoded-mtext:before {
+    border-bottom-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item .pcoded-hasmenu .pcoded-submenu li.active>a .pcoded-mtext:after {
+    border-left-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item .pcoded-hasmenu .pcoded-submenu li>a .pcoded-mtext:before {
+    border-bottom-color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item .pcoded-hasmenu .pcoded-submenu li>a .pcoded-mtext:after {
+    border-left-color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li:hover>a:before {
+    border-left-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.pcoded-hasmenu:hover>a:after {
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.pcoded-trigger>a {
+    background: #00113E;
+    border-bottom-color: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.pcoded-trigger.active>a {
+    background: #00113E
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.pcoded-hasmenu .pcoded-submenu li.pcoded-hasmenu:hover>a:after {
+    color: #dcdcdc
+}
+
+.pcoded .pcoded-navbar[navbar-theme="theme1"] .pcoded-navigatio-lavel {
+    color: #00113E;
+    border-bottom-color: transparent
+}
+
+.pcoded .pcoded-navbar[theme-layout="vertical"][vertical-nav-type="collapsed"] .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>.pcoded-hasmenu.pcoded-trigger>.pcoded-submenu, .pcoded .pcoded-navbar[theme-layout="vertical"][vertical-nav-type="sub-expanded"] .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>.pcoded-hasmenu.pcoded-trigger>.pcoded-submenu {
+    border-left-color: transparent
+}
+
+.pcoded .pcoded-navbar[theme-layout="vertical"][vertical-nav-type="ex-popover"] .pcoded-navbar[navbar-theme="theme1"] .pcoded-item li.pcoded-trigger>a>.pcoded-mcaret {
+    border-right-color: #00113E !important
+}
+
+.pcoded .pcoded-navbar[theme-layout="vertical"][vertical-nav-type="ex-popover"] .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>.pcoded-hasmenu.pcoded-trigger>.pcoded-submenu {
+    border-left-color: transparent
+}
+
+.pcoded .pcoded-navbar[theme-layout="vertical"][vertical-nav-type="fullpage"] .pcoded-navbar[navbar-theme="theme1"] {
+    background-color: #00113E
+}
+
+.pcoded .pcoded-navbar[theme-layout="vertical"][vertical-nav-type="fullpage"] .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li:hover>a {
+    color: #FFF
+}
+
+.pcoded .pcoded-navbar[theme-layout="vertical"][vertical-nav-type="fullpage"] .pcoded-navbar[navbar-theme="theme1"] .sidebar_toggle a {
+    color: #fff
+}
+
+.pcoded[theme-layout="vertical"][vertical-nav-type="compact"] .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li>a {
+    border-bottom-color: #546686
+}
+
+.pcoded[theme-layout="vertical"][vertical-nav-type="collapsed"] .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>.pcoded-hasmenu.pcoded-trigger>.pcoded-submenu {
+    border-left-color: #4e5f7d;
+    -webkit-box-shadow: 3px 2px 11px -2px rgba(0, 0, 0, 0.13);
+    box-shadow: 3px 2px 11px -2px rgba(0, 0, 0, 0.13)
+}
+
+.pcoded[theme-layout="vertical"][vertical-nav-type="collapsed"] .pcoded-navbar[navbar-theme="theme1"] .pcoded-item>li.pcoded-trigger>a {
+    border-bottom: 1px solid #546686;
+    border-top: 1px solid #546686
+}
+
+.theme-color a[navbar-theme="theme1"] {
+    background: #00113E
+}
+
+.theme-color a[navbar-theme="theme1"][sidebar-img="true"] .cont:after, .theme-color a[navbar-theme="theme1"][sidebar-img="true"] .head:after {
+    background: transparent
+}
+
+.pcoded .pcoded-header .navbar-logo[logo-theme="theme1"] {
+    background-color: #00113E
+}
+
+.pcoded .pcoded-navbar .pcoded-navigatio-lavel[menu-title-theme="theme5"] {
+    color: #F8D960 !important
+}

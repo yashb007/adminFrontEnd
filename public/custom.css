@@ -1,0 +1,136 @@
+
+.transition {
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.fx1 .item,
+.fx2 .item,
+.fx3 .item,
+.fx4 .item,
+.fx5 .item {
+  margin: 10px 0;
+}
+
+/* active on focus for accessibility tab navigation */
+
+.fx1 .item {
+  padding: 0;
+}
+.fx1 .item img {
+  padding: 0 !important;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.fx1:hover .item img,
+.fx1:focus .item img {
+  opacity: 0.8;
+}
+.fx1 span,
+.fx1 p {
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.fx1 .item span {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  position: absolute;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  position: absolute;
+  top: 42%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  opacity: 0;
+}
+.fx1:hover .item span,
+.fx1:focus .item span {
+  opacity: 1;
+}
+.fx1 .item p {
+  font-family: "Raleway", sans-serif;
+  font-size: 8px;
+  position: absolute;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  position: absolute;
+  top: 52%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  opacity: 0;
+}
+.fx1 a:hover .item p,
+.fx1 a:focus .item p {
+  opacity: 1;
+}
+
+.rce-mbox-right-notch {  
+  fill: #00113e !important;
+}
+.rce-mbox {
+background: #c1c1c1 !important;  
+  color: black!important;  
+}
+.rce-mbox-left-notch {
+  fill: #c1c1c1!important;  
+}
+.rce-mbox.rce-mbox-right { 
+  color: #e2c55e!important;
+  background: #00113e !important;
+
+}
+.chat-box-main {
+
+  height: 350px;
+overflow: auto;
+  z-index: 99;
+}.image-area {
+  position: relative;
+  /* width: 50%; */
+  margin: 10px;
+  background: #333;
+}
+.image-area img{
+  max-width: 100%;
+  height: auto;
+}
+.remove-image {
+  cursor: pointer;
+display: none;
+position: absolute;
+top: -10px;
+right: -10px;
+border-radius: 10em;
+padding: 2px 6px 3px;
+text-decoration: none;
+font: 700 21px/20px sans-serif;
+background: #555;
+border: 3px solid #fff;
+color: #FFF;
+box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 2px 4px rgba(0,0,0,0.3);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+  -webkit-transition:  0.5s;
+  transition:  0.5s;
+}
+.remove-image:hover {
+ background: #E54E4E;
+  padding: 3px 7px 5px;
+  top: -11px;
+right: -11px;
+}
+.remove-image:active {
+ background: #E54E4E;
+  top: -10px;
+right: -11px;
+}
